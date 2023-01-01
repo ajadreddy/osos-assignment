@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/osos-assignment/static/css/main.98ac0aaa.css",
+    "main.js": "/osos-assignment/static/js/main.f8b0cf97.js",
+    "static/js/787.7fa42576.chunk.js": "/osos-assignment/static/js/787.7fa42576.chunk.js",
+    "index.html": "/osos-assignment/index.html",
+    "main.98ac0aaa.css.map": "/osos-assignment/static/css/main.98ac0aaa.css.map",
+    "main.f8b0cf97.js.map": "/osos-assignment/static/js/main.f8b0cf97.js.map",
+    "787.7fa42576.chunk.js.map": "/osos-assignment/static/js/787.7fa42576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ac0aaa.css",
+    "static/js/main.f8b0cf97.js"
+  ]
+}
